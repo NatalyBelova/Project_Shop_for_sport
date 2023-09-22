@@ -1,0 +1,28 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-21 12:26:28.595555
+Start name method: select_men
+
+End time: 2023-09-21 12:27:11.673264
+End name method: select_men
+URL: https://sportpoint.ru/catalog/muzhchiny/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-21 12:27:11.673264
+Start name method: select_sneakers_new_balance
+
+End time: 2023-09-21 12:28:02.878163
+End name method: select_sneakers_new_balance
+URL: https://sportpoint.ru/basket/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-21 12:28:02.878163
+Start name method: select_proceed_to_checkout
+

@@ -1,0 +1,18 @@
+
+-----
+Test: tests/test_search.py::test_search_1 (call)
+Start time: 2023-09-22 10:42:54.086550
+Start name method: search_caps
+
+
+-----
+Test: tests/test_search.py::test_search_2 (call)
+Start time: 2023-09-22 10:43:15.881621
+Start name method: search_accessories
+
+
+-----
+Test: tests/test_search.py::test_search_3 (call)
+Start time: 2023-09-22 10:43:36.586489
+Start name method: search_scarves
+

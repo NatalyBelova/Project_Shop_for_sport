@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_click_logo.py::test_click_logo (call)
+Start time: 2023-09-21 15:10:59.514518
+Start name method: select_women
+
+End time: 2023-09-21 15:12:01.681478
+End name method: select_women
+URL: https://sportpoint.ru/
+
+-----
+
+-----
+Test: tests/test_click_logo.py::test_click_logo (call)
+Start time: 2023-09-21 15:12:01.682471
+Start name method: click_logo
+
+End time: 2023-09-21 15:12:11.187079
+End name method: click_logo
+URL: https://sportpoint.ru/
+
+-----

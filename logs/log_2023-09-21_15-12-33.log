@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_click_logo.py::test_click_logo (call)
+Start time: 2023-09-21 15:12:35.879811
+Start name method: select_women
+
+End time: 2023-09-21 15:13:31.586509
+End name method: select_women
+URL: https://sportpoint.ru/catalog/zhenshchiny/
+
+-----
+
+-----
+Test: tests/test_click_logo.py::test_click_logo (call)
+Start time: 2023-09-21 15:13:31.587503
+Start name method: click_logo
+
+End time: 2023-09-21 15:13:39.266348
+End name method: click_logo
+URL: https://sportpoint.ru/
+
+-----

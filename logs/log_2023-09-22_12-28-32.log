@@ -1,0 +1,11 @@
+
+-----
+Test: tests/test_navigation.py::test_navigation (call)
+Start time: 2023-09-22 12:28:35.744737
+Start name method: select_children
+
+End time: 2023-09-22 12:31:25.337972
+End name method: select_children
+URL: https://sportpoint.ru/blog/
+
+-----

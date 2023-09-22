@@ -1,0 +1,28 @@
+
+-----
+Test: tests/test_change_city.py::test_change_city_Krasnodar (call)
+Start time: 2023-09-21 16:05:02.904679
+Start name method: change_city
+
+End time: 2023-09-21 16:05:34.897724
+End name method: change_city
+URL: https://sportpoint.ru/
+
+-----
+
+-----
+Test: tests/test_change_city.py::test_change_city_Domodedovo (call)
+Start time: 2023-09-21 16:05:44.249723
+Start name method: change_city
+
+End time: 2023-09-21 16:06:36.543821
+End name method: change_city
+URL: https://sportpoint.ru/
+
+-----
+
+-----
+Test: tests/test_click_logo.py::test_click_logo (call)
+Start time: 2023-09-21 16:06:47.502668
+Start name method: select_women
+

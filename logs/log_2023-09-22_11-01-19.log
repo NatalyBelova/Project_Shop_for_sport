@@ -1,0 +1,61 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-22 11:01:22.927451
+Start name method: select_men
+
+End time: 2023-09-22 11:01:55.452865
+End name method: select_men
+URL: https://sportpoint.ru/catalog/muzhchiny/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-22 11:01:55.453858
+Start name method: select_product
+
+End time: 2023-09-22 11:02:27.678280
+End name method: select_product
+URL: https://sportpoint.ru/basket/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-22 11:02:27.678280
+Start name method: select_proceed_to_checkout
+
+End time: 2023-09-22 11:02:36.628565
+End name method: select_proceed_to_checkout
+URL: https://sportpoint.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-09-22 11:02:36.629557
+Start name method: make_order
+
+End time: 2023-09-22 11:02:38.601804
+End name method: make_order
+URL: https://sportpoint.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_wit_filters (call)
+Start time: 2023-09-22 11:02:50.503150
+Start name method: select_men
+
+End time: 2023-09-22 11:03:14.205366
+End name method: select_men
+URL: https://sportpoint.ru/catalog/muzhchiny/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_wit_filters (call)
+Start time: 2023-09-22 11:03:14.205366
+Start name method: select_product_with_filters
+

@@ -1,0 +1,17 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_wit_filters (call)
+Start time: 2023-09-21 14:32:19.392385
+Start name method: select_men
+
+End time: 2023-09-21 14:32:44.680396
+End name method: select_men
+URL: https://sportpoint.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_wit_filters (call)
+Start time: 2023-09-21 14:32:44.681389
+Start name method: select_product_with_filters
+
